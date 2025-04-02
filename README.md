@@ -16,7 +16,7 @@ Taking both the hub and any spoke will count as an 18.3xx class for math majors,
 
 **Collaboration policy:** Talk to anyone you want to and read anything you want to, with two caveats: First, make a solid effort to solve a problem on your own before discussing it with classmates or googling. Second, no matter whom you talk to or what you read, write up the solution on your own, without having their answer in front of you (this includes ChatGPT and similar). (You can use [psetpartners.mit.edu](https://psetpartners.mit.edu/) to find problem-set partners.)
 
-**Teaching Assistant**: [Mo Chen](https://math.mit.edu/directory/profile.html?pid=2176)
+**Teaching Assistant**: [Shania Mitra](https://cse.mit.edu/people/shania-mitra/)
 
 **Office Hours**: Wednesday 4pm in 2-345 (Prof. Johnson)
 
