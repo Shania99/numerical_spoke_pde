@@ -18,6 +18,6 @@ Taking both the hub and any spoke will count as an 18.3xx class for math majors,
 
 **Teaching Assistant**: [Shania Mitra](https://cse.mit.edu/people/shania-mitra/)
 
-**Office Hours**: Wednesday 4pm in 2-345 (Prof. Johnson)
+**Office Hours**: Thursday 5pm on [Zoom](https://mit.zoom.us/j/94237760810) (Prof. Wang)
 
 **Resources**: Piazza discussion forum (TO BE CREATED), [math learning center](https://math.mit.edu/learningcenter/), [TSR^2 study/resource room](https://ome.mit.edu/programs/talented-scholars-resource-room-tsr2), [pset partners](https://psetpartners.mit.edu/).
