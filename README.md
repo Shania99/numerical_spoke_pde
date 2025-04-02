@@ -21,3 +21,5 @@ Taking both the hub and any spoke will count as an 18.3xx class for math majors,
 **Office Hours**: Thursday 5pm on [Zoom](https://mit.zoom.us/j/94237760810) (Prof. Wang)
 
 **Resources**: Piazza discussion forum (TO BE CREATED), [math learning center](https://math.mit.edu/learningcenter/), [TSR^2 study/resource room](https://ome.mit.edu/programs/talented-scholars-resource-room-tsr2), [pset partners](https://psetpartners.mit.edu/).
+
+Lecture 1 (31 March): [One Note](https://mitprod-my.sharepoint.com/personal/qiqi_mit_edu/_layouts/15/Doc.aspx?sourcedoc=%7B24321bd2-8c69-451a-b0cc-c2b42aed5743%7D&action=view&wd=target%28C.+Finite+Difference+for+PDE%2F20250331.one%7C1dc15f5c-552e-40b4-bc05-8bee1cd58ae0%2F%29&wdorigin=717) [Colab Notebook](https://colab.research.google.com/drive/1ojJIvUNH38rIfuNeOVjxBcq2wWRdBN8N?usp=sharing) [Combined Notes](https://colab.research.google.com/drive/1vLoVuFqkXZERvQ075OU9aQcz1DXcd8AJ?usp=sharing)
