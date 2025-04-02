@@ -11,7 +11,7 @@ Taking both the hub and any spoke will count as an 18.3xx class for math majors,
 **Lectures**: MWF10 in 2-142 (Feb 3 – Mar 31), slides and notes posted below.  Lecture videos posted in [Panopto Video on Canvas](https://canvas.mit.edu/courses/32076/external_tools/595).
 
 **Grading** (all assignments **submitted electronically** via [Gradescope on Canvas](https://canvas.mit.edu/courses/32076/external_tools/369)):
-* 50% **4 weekly psets:** due Fridays at midnight: April 11, 18, 25.
+* 50% **4 weekly psets:** due Fridays at midnight: April 4, 11, 18, 25.
 * 50% **final project**: due May 12 (last day of class).
 
 **Collaboration policy:** Talk to anyone you want to and read anything you want to, with two caveats: First, make a solid effort to solve a problem on your own before discussing it with classmates or googling. Second, no matter whom you talk to or what you read, write up the solution on your own, without having their answer in front of you (this includes ChatGPT and similar). (You can use [psetpartners.mit.edu](https://psetpartners.mit.edu/) to find problem-set partners.)
