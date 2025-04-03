@@ -1,10 +1,20 @@
 # Interdisciplinary Numerical Methods: Numerical PDEs "Spoke" 18.S191/16.S091
 
 This repository holds materials the second 6-unit "spoke" half of a new MIT course (**Spring 2025**) introducing numerical methods and numerical analysis to a broad audience.   18.S191/16.S091 covers **Numerical PDEs**: Finite Difference and Finite Volume
+**Syllabus:**
+* Units: 6 (2nd half of term)
+* Prerequisites: 18.C330 (“hub”)
+* Grading: 60% problem sets, 40% final project
 
-* **Prerequisites:** 18.03, 18.06, or equivalents, and some programming experience.   You should have taken the [first half-semester numerical "hub" 18.S190/16.S090](https://github.com/mitmath/numerical_hub), or alternatively *any other introductory numerical-methods course* (e.g. 18.330, 18.C25, 18.C20, 16.90, 2.086, 12.010, 6.7330J/16.920J/2.097J, or 6.S955).
+This course focuses on numerical methods for modeling physical systems, especially systems described by partial differential equations (PDEs), with a variety of examples drawn from different areas of science and engineering. Likely topics include:
+1. Finite-difference methods: accuracy and implementation.
+2. Initial value problems: Convergence, consistency, stiffness, and explicit/implicit methods. Method of lines.
+3. Finite volume methods
+4. Nonlinear PDEs: split-step and other methods
+5. Applications including waves, diffusion, incompressible flow
 
-Taking both the hub and any spoke will count as an 18.3xx class for math majors, similar to 18.330, and as 16.90 for course-16 majors.
+Students will complete weekly homework assignments, as well as a final project investigating the modeling of a physical system (typically a PDE) not directly covered in class, and/or a numerical method significantly different from those covered in class. 
+
 
 **Instructor**: [Prof. Qiqi Wang](https://aeroastro.mit.edu/people/qiqi-wang/).
 
