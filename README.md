@@ -18,6 +18,44 @@ Students will complete weekly homework assignments, as well as a final project i
 
 **Instructor**: [Prof. Qiqi Wang](https://aeroastro.mit.edu/people/qiqi-wang/).
 
+---
+
+# Final Project 
+
+The final project will be an 8–15 page paper (single-column, single-spaced, ideally using the SIAM Journal on Numerical Analysis style template), implementing an algorithm for solving some differential equations, for example, reproducing the result of an existing paper. Your paper should be written for an audience of your peers in the class, and should include example numerical results (by you) from application to a representative problem (small-scale is fine), along with discussion of accuracy, stability, and performance characteristics (both theoretical and experimental).
+
+As with any review-style paper, you are expected to reference the published literature thoroughly, citing both original sources and authoritative reviews or textbooks (rarely web pages), providing a clear historical and theoretical context. Include enough in-text citations to clarify which results come from which sources. (You may reuse diagrams from published works with explicit credit. Not doing so is plagiarism.) Model your writing after academic review papers such as those in SIAM Review or Numerische Mathematik.
+
+A Good Final Project Will Include:
+
+1. An introduction and bibliography, placing the implementation in context:
+  
+  - What differential equation does it solve?
+  - What are the initial / boundary conditions?
+  - What algorithm is used to solve the equation, and why is this algorithm chosen?
+  - What are the main competing algorithms?
+  - What variations or extensions have been proposed?
+
+2. A clear and self-contained description of the implementation, including:
+
+  - Summary of the main equations describing the discretization.
+  - Key mathematical properties: order of accuracy, stability, stiffness-handling, etc.
+  - Implementation considerations (e.g., time-stepping, gridding, memory use).
+  - Visualization of results, time evolution, error growth, etc.
+  - Performance characteristics, such as: Error vs. time step (convergence rate).
+  - Comparison to competing algorithms (accuracy, efficiency, robustness).
+  - Discussion of computational cost: flops, memory, wall time
+
+Your implementation can be in a language of your choice. You should not use others' code for your primary implementation — the goal is to demonstrate your understanding. You may, however, compare to external codes for benchmarking purposes.
+
+What to Submit
+- Proposal: Due 5/2, one-page or two pages write up on intended topics and method
+- Final paper PDF: In SIAM format or similar, due 5/12
+- Code archive: A .zip or .tar.gz file with your source code and a short README file describing what each file does and listing any dependencies.
+- Presentation: 10 minutes presentation either on **5/9** or **5/12**
+
+----
+
 **Lectures**: MWF10 in 2-142 (Feb 3 – Mar 31), slides and notes posted below.  Lecture videos posted in [Panopto Video on Canvas](https://canvas.mit.edu/courses/32079/external_tools/369).
 
 **Grading** (all assignments **submitted electronically** via [Gradescope on Canvas](https://canvas.mit.edu/courses/32076/external_tools/369)):
