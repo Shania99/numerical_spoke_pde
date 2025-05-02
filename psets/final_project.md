@@ -1,4 +1,4 @@
-# 18.335 final projects
+# 16.S091 final projects
 
 The final project will be an 4-8 page paper (single-column, single-spaced, ideally using the style template from the [_SIAM Journal on Numerical Analysis_](http://www.siam.org/journals/auth-info.php)), reviewing some interesting linear-algebra algorithm not covered in the course.  Your paper should be written for an audience of your peers in the class, and should include example numerical results (by you) from application to a realistic problem (small-scale is fine), discussion of accuracy and performance characteristics (both theoretical and experimental), and ideally a comparison to a competing algorithm for the same problem.
 
